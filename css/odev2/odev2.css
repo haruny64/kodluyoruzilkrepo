@@ -1,0 +1,48 @@
+.google {
+    position: relative;
+    margin: auto;
+    width: 351px;
+    height: 113px;
+}
+.container {
+    background-color: darkgray;
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.container2 {
+    background-color: aquamarine;
+    width: 35%;
+    height: 120px;
+    position: relative;
+    margin: auto;
+    left: -420px;
+    margin-top: -31px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.container3 {
+    background-color: aquamarine;
+    width: 35%;
+    height: 120px;
+    position: relative;
+    margin: auto;
+    left: 419px;
+    margin-top: -136px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.container4 {
+    background-color: aquamarine;
+    width: 20%;
+    height: 120px;
+    position: relative;
+    margin: auto;
+    margin-top: -120px;
+    margin-bottom: auto;
+    text-align: center;
+}
